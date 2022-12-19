@@ -1,5 +1,4 @@
 // Importo la LIBRERIA dello scanner da java.util
-import java.awt.*;
 import java.util.Scanner;
 public class RecOne
 {
