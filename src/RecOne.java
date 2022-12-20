@@ -21,6 +21,7 @@ public class RecOne
         // Dichiaro variabile int con valore da tastiera
         int a,b;
         // .nextInt() produce uno spazio che non ci deve essere nel numero
+        // a sarebbe 'a\n' se non si fa parseint
         // a = sc.nextInt();
         // Integer.parseInt non produce lo spazio
         a = Integer.parseInt(sc.nextLine());
