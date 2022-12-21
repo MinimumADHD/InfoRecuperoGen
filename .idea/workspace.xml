@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa3ab41c-1ed3-4353-a4e4-6d388325203a" name="Changes" comment="Test nuovo laptop">
-      <change afterPath="$PROJECT_DIR$/src/PalindromaClass.java" afterDir="false" />
+    <list default="true" id="fa3ab41c-1ed3-4353-a4e4-6d388325203a" name="Changes" comment="*">
+      <change afterPath="$PROJECT_DIR$/src/IntelliJShowup.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,20 +39,6 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration name="RecOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RecOne" />
-      <module name="InfoRecuperoGen" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.RecOne" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -69,7 +55,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671566386405</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="*">
+      <created>1671613135170</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671613135170</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -85,7 +78,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test nuovo laptop" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test nuovo laptop" />
+    <MESSAGE value="*" />
+    <option name="LAST_COMMIT_MESSAGE" value="*" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
